@@ -10,3 +10,4 @@
 2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers)|Medium|
 7|[Reverse Integer](https://leetcode.com/problems/reverse-integer)|Easy|
 9|[Palindrome Number](https://leetcode.com/problems/palindrome-number)|Easy|
+20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses)|Easy|

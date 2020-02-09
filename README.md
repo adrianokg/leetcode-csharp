@@ -16,4 +16,5 @@
 104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree)|Easy|
 122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii)|Easy|
 160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists)|Easy|
+257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths)|Easy|
 412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz)|Easy|

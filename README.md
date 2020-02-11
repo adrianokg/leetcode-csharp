@@ -18,4 +18,5 @@
 160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists)|Easy|
 257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths)|Easy|
 345|[Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string)|Easy|
+392|[Is Subsequence](https://leetcode.com/problems/is-subsequence)|Easy|
 412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz)|Easy|

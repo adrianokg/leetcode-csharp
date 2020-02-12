@@ -20,3 +20,4 @@
 345|[Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string)|Easy|
 392|[Is Subsequence](https://leetcode.com/problems/is-subsequence)|Easy|
 412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz)|Easy|
+706|[Design HashMap](https://leetcode.com/problems/design-hashmap)|Easy|

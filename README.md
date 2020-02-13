@@ -21,3 +21,4 @@
 392|[Is Subsequence](https://leetcode.com/problems/is-subsequence)|Easy|
 412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz)|Easy|
 706|[Design HashMap](https://leetcode.com/problems/design-hashmap)|Easy|
+846|[Hand of Straights](https://leetcode.com/problems/hand-of-straights)|Medium|

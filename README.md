@@ -26,6 +26,7 @@
 771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones)|Easy|
 846|[Hand of Straights](https://leetcode.com/problems/hand-of-straights)|Medium|
 884|[Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences)|Easy|
+1103|[Distribute Candies to People](https://leetcode.com/problems/distribute-candies-to-people)|Easy|
 1167|[Minimum Cost to Connect Sticks](https://leetcode.com/problems/minimum-cost-to-connect-sticks)|Medium|
 1207|[Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences)|Easy|
 1287|[Element Appearing More Than 25% In Sorted Array](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array)|Easy|
